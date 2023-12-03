@@ -90,7 +90,7 @@ const char* password = "MyArtNetNetwork";
 
 Modifica lo sketch, cambiando le variabili `ssid` e `password`, adattandole alla tua rete.
 
-Puoi decidere se usare un IP statico oppure usando il DHCP. Per disabilitare il DHCP è sufficiente decommentare l'istruzione `#define DHCP_DISABLED` e settare le variabili `local_IP`, `gateway`, `subnet` e (opzionalmente) `primaryDNS` e `secondaryDNS`.
+Puoi decidere se usare un IP statico oppure usare il DHCP. Per disabilitare il DHCP è sufficiente decommentare l'istruzione `#define DHCP_DISABLED` e settare le variabili `local_IP`, `gateway`, `subnet` e (opzionalmente) `primaryDNS` e `secondaryDNS`.
 
 ---
 
